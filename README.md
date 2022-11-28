@@ -14,5 +14,5 @@
 ### // Copyright © gurraoptimus.se 2023. All rights reserved
 
 
-[license-shield]: https://img.shields.io/github/license/gurraoptimus/Electron.svg?-style=flat-square
+[license-shield]: https://img.shields.io/github/license/gurraoptimus/gurraoptimus.svg?-style=flat-square
 [license-url]: https://github.com/gurraoptimus/gurraoptimus/blob/main/LICENSE
