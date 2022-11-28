@@ -1,6 +1,6 @@
-<!--<img src="https://www.gurraoptimus.se/img/gurraoptimus.jpg" />-->
+<img src="https://www.gurraoptimus.se/img/gurraoptimus.jpg" />
 <!--<img src="https://www.gurraoptimus.se/img/github-4.jpg" />-->
-<img src="https://www.gurraoptimus.se/img/github.jpg"/>
+<!--<img src="https://www.gurraoptimus.se/img/github.jpg"/>-->
 <!--<img src="https://www.gurraoptimus.se/img/{G}.png" />-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gurraoptimus.gurraoptimus)
