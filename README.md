@@ -3,10 +3,10 @@
 <!--<img src="https://www.gurraoptimus.se/img/github.jpg"/>-->
 <!--<img src="https://www.gurraoptimus.se/img/{G}.png" />-->
 
-[![GPL-3.0 License][license-shield]][license-url] ![](https://visitor-badge.glitch.me/badge?page_id=gurraoptimus.gurraoptimus)
 # {GURRAOPTIMUS}
+[![GPL-3.0 License][license-shield]][license-url] ![](https://visitor-badge.glitch.me/badge?page_id=gurraoptimus.gurraoptimus)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&show_icons=true&theme=merko" alt="gurraoptimus" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&show_icons=true&theme=merko" alt="gurraoptimus" />
 
 ## [Repositories](https://github.com/gurraoptimus?tab=repositories) 
 ### Musician. / Web Developer. [ {gurraoptimus.se} ](https://gurraoptimus.se)
