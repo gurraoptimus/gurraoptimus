@@ -4,7 +4,7 @@
 <!--<img src="https://www.gurraoptimus.se/img/{G}.png" />-->
 
 # {GURRAOPTIMUS}
-<a href="https://gurraoptimus.se">
+<a href="https://gurraoptimus.se/">
   <img align="left" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/{G}-2.png" />
 </a>
 <br>
@@ -15,8 +15,8 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&show_icons=true&theme=merko" alt="gurraoptimus" />
 
 ## [Repositories](https://github.com/gurraoptimus?tab=repositories) 
-### Musician. / Web Developer. [ {gurraoptimus.se} ](https://gurraoptimus.se)
-### follow me on here [linktr.ee](https://linktr.ee/gurraoptimus)
+### Musician. / Web Developer. [ {gurraoptimus.se} ](https://gurraoptimus.se/error)
+### follow me here on [linktr.ee](https://linktr.ee/gurraoptimus)
 ### // Copyright © gurraoptimus.se 2023. All rights reserved
 
 
