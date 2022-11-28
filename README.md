@@ -7,6 +7,7 @@
 <a href="https://gurraoptimus.se">
   <img align="left" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/{G}-2.png" />
 </a>
+<br>
 
 [![GPL-3.0 License][license-shield]][license-url] ![](https://visitor-badge.glitch.me/badge?page_id=gurraoptimus.gurraoptimus)
 
