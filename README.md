@@ -1,5 +1,6 @@
 <img src="https://www.gurraoptimus.se/img/github.jpg" /> 
-#{GURRAOPTIMUS}
+
+# {GURRAOPTIMUS}
 
 ### Musician. / Web Developer. [gurraoptimus.se](https://gurraoptimus.se)
 ### follow me on here [linktr.ee](https://linktr.ee/gurraoptimus)
