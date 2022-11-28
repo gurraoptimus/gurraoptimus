@@ -1,4 +1,4 @@
-<img src="https://gurraoptimus.se/img/%7BG%7D.png" />
+<img src="https://www.gurraoptimus.se/img/github.jpg" />
 # {GURRAOPTIMUS}
 
 ### Musician. / Web Developer. ({gurraoptimus.se})[https://gurraoptimus.se/]
