@@ -1,4 +1,4 @@
-<img src="https://www.gurraoptimus.se/img/github4.jpg" /> 
+<img src="https://www.gurraoptimus.se/img/gurraoptimus.jpeg" /> 
 
 # {GURRAOPTIMUS}
 
