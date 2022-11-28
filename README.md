@@ -4,7 +4,14 @@
 <!--<img src="https://www.gurraoptimus.se/img/{G}.png" />-->
 
 # {GURRAOPTIMUS}
+<a href="https://gurraoptimus.se">
+  <img align="left" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/{G}-2.png" />
+</a>
+
+<br>
+
 [![GPL-3.0 License][license-shield]][license-url] ![](https://visitor-badge.glitch.me/badge?page_id=gurraoptimus.gurraoptimus)
+
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&show_icons=true&theme=merko" alt="gurraoptimus" />
 
