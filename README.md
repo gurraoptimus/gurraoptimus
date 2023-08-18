@@ -1,7 +1,7 @@
 <img src="https://www.gurraoptimus.se/img/gurraoptimus.jpg" />
 <!--<img src="https://www.gurraoptimus.se/img/github-4.jpg" />-->
 <!--<img src="https://www.gurraoptimus.se/img/github.jpg"/>-->
-<!--<img src="https://www.gurraoptimus.se/icon/{G}-2.png"/>-->
+<!--<img src="https://www.gurraoptimus.se/img/{G}.png"/>-->
 
 # {GURRAOPTIMUS DEVELOPMENT}
 <a href="https://gurraoptimus.se/">
