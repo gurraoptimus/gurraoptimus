@@ -17,15 +17,7 @@
 ## [Repositories](https://github.com/gurraoptimus?tab=repositories) 
 ### Musician. / IT Developer. [ {gurraoptimus.se} ](https://gurraoptimus.se/)
 ### follow me here on [linktr.ee](https://linktr.ee/gurraoptimus)
-<footer>
-  <p class="copyright">
-  //  Copyright &copy; Gurraoptimus Development &middot;<span id="curYr"></span> All rights reserved.</p>
-</footer>
- <script>
-     var date = new Date();
-     var year = date.getFullYear();
-     document.getElementById("curYr").innerHTML = year;
- </script>
+### // Copyright &copy; Gurraoptimus Development All rights reserved&middot;
 
 
 [license-shield]: https://img.shields.io/github/license/gurraoptimus/gurraoptimus.svg?-style=flat-square
