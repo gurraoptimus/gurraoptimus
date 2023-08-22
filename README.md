@@ -15,7 +15,7 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&show_icons=true&theme=merko" alt="gurraoptimus" />
 
 ## [Repositories](https://github.com/gurraoptimus?tab=repositories) 
-### Musician. / IT Developer. [ {gurraoptimus.se} ](https://gurraoptimus.se/)
+### Musician. / IT Developer. [ {Gurraoptimus Development} ](https://gurraoptimus.se/)
 ### follow me here on [linktr.ee](https://linktr.ee/gurraoptimus)
 ## // Copyright &copy; Gurraoptimus Development All rights reserved&mldr;
 
