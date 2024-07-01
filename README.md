@@ -1,4 +1,4 @@
-<img align="right" alt="gurraoptimus" width="75px" src="https://www.gurraoptimus.se/img/ico.png" />
+<img align="right" alt="gurraoptimus" width="175px" src="https://www.gurraoptimus.se/img/ico.png" />
 <!--<img src="https://www.gurraoptimus.se/img/gurraoptimus.jpg" />-->
 <!--<img src="https://www.gurraoptimus.se/img/github-4.jpg" />-->
 <!--<img src="https://www.gurraoptimus.se/img/github.jpg"/>-->
