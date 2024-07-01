@@ -13,11 +13,11 @@
 [![GPL-3.0 License][license-shield]][license-url]
 
 <a href="https://github.com/gurraoptimus">
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&count_private=True&show_icons=true&include_all_commits=true&theme=pupple" alt="gurraoptimus" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&count_private=True&show_icons=true&include_all_commits=true&theme=merko" alt="gurraoptimus" />
 
 </a>
 <a href="https://github.com/gurraoptimus">
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=pupple" alt="gurraoptimus" />
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="gurraoptimus" />
 </a>
 
 ## [Repositories](https://github.com/gurraoptimus?tab=repositories) 
