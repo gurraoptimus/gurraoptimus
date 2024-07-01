@@ -13,7 +13,7 @@
 [![GPL-3.0 License][license-shield]][license-url]
 
 <a href="https://github.com/gurraoptimus">
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&count_private=true&show_icons=true&include_all_commits=true&theme=merko" alt="gurraoptimus" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&count_private_Live=true&show_icons=true&include_all_commits=true&theme=merko" alt="gurraoptimus" />
 
 </a>
 <a href="https://github.com/gurraoptimus">
