@@ -61,7 +61,7 @@
         <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&cover_image=false&theme=default&show_offline=true&background_color=919191&interchange=true"/></a>
     </p>
 
- <h6 align="left">
+ <h6 align="bottom">
  <!-- <img title="spotify-github-profile" alt="spotify" src="https://github.com/gurraoptimus/gurraoptimus/blob/main/imsooutofthechessboard.svg"/><br><br>-->
  
  <br>
