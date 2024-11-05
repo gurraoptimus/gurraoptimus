@@ -64,7 +64,8 @@
     </p>
 
  <h6 align="center">
- <!-- <img title="spotify-github-profile" alt="spotify" src="https://github.com/gurraoptimus/gurraoptimus/blob/main/imsooutofthechessboard.svg"/><br>-->
+ <!--<img title="spotify-github-profile" alt="spotify" src="https://github.com/gurraoptimus/gurraoptimus/blob/main/imsooutofthechessboard.svg"/><br>-->
+ 
  <br>
 
  <a href="https://gurraoptimus.se/">
