@@ -3,7 +3,7 @@
  <!DOCTYPE html>
 
 <!--Written by gurraoptimus for Gurraoptimus Development 2021-->
-  <html lang="en">
+  <!--<html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,7 +25,7 @@
    <video src="https://gurraoptimus.se/vid/Code.1.0.1.0.0.mp4" playsinline  muted autoplay id="myVideo">
     </video>
     
-<!--<div class="Welcome">
+<div class="Welcome">
 <img class="resize" align="bottom" alt="gurraoptimus" src="https://www.gurraoptimus.se/img/ico.png" />
 
    <h1>GURRA OPTIMUS</h1> 
@@ -34,34 +34,34 @@
    <a href="https://chat.gurraoptimus.se"class="btn">chat</a>
    <a href="https://time.gurraoptimus.se"class="btn">times</a>
    <a href="https://radio.gurraoptimus.se"class="btn">radio</a>
-   </div>-->
+   </div>
   <script src="https://gurraoptimus.se/src/script.js">
-</script>
+</script>-->
 
 </body>
 </html>
 
 
 <a href="https://github.com/gurraoptimus">
-<p align="left"> 
+<p align="center"> 
 <img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count_private&border_width=0&border_radius=15.2&hide_border=true&theme=merko" alt="gh-readme-profile />
   
   <!--<img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&count_private=True&show_icons=true&include_all_commits=true&theme=merko" alt="github-readme-stats" />-->
 </a>
 <a href="https://github.com/gurraoptimus">
-  <p align="left"> 
+  <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="github-readme-stats" />
 </a>
-<h6 align="left">
+<h6 align="center">
   <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-qualityhentais" alt="count getloli />
 
 </h6>
-<p align="left"> 
+<p align="center"> 
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
         <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&cover_image=false&theme=default&show_offline=true&background_color=919191&interchange=true"/></a>
     </p>
 
- <h6 align="left">
+ <h6 align="center">
  <!-- <img title="spotify-github-profile" alt="spotify" src="https://github.com/gurraoptimus/gurraoptimus/blob/main/imsooutofthechessboard.svg"/><br><br>-->
  
  <br>
@@ -94,7 +94,7 @@
 
 
 ## [Repositories](https://github.com/gurraoptimus?tab=repositories)
-### Musician. / IT Developer. [ { Gurraoptimus Development } ](https://gurraoptimus.se/)
+### Musician. / IT Developer. [{Gurraoptimus Development}](https://gurraoptimus.se/)
 ### Follow me here on [linktr.ee](https://linktr.ee/gurraoptimus)
 ## // Copyright &copy; Gurraoptimus Development All rights reserved&mldr;
 
