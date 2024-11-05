@@ -59,7 +59,7 @@
   alt="count getloli />
 
 </h6>
-<p align="center"> 
+<p align="left"> 
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
         <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&cover_image=false&theme=default&show_offline=true&background_color=919191&interchange=true"/></a>
     </p>
