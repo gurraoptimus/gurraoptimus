@@ -53,7 +53,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="github-readme-stats" />
 </a>
 <h6 align="left">
-  <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="count getloli />
+  <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-qualityhentais&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="count getloli />
 
 </h6>
 <p align="center"> 
