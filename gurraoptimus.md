@@ -44,16 +44,18 @@
 
 <a href="https://github.com/gurraoptimus">
 <p align="left"> 
-<img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count_private&border_width=0&border_radius=15.2&hide_border=true&theme=merko">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&count_private=True&show_icons=true&include_all_commits=true&theme=merko" alt="gurraoptimus" />-->
+<img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count_private&border_width=0&border_radius=15.2&hide_border=true&theme=merko" alt="gh-readme-profile />
+  
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&count_private=True&show_icons=true&include_all_commits=true&theme=merko" alt="github-readme-stats" />-->
 </a>
 <a href="https://github.com/gurraoptimus">
   <p align="left"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="gurraoptimus" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="github-readme-stats" />
 </a>
 <h6 align="left">
-  <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-qualityhentais"  />
-</h6 <br>
+  <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-qualityhentais" alt="count getloli />
+
+</h6>
 <p align="left"> 
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
         <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&cover_image=false&theme=default&show_offline=true&background_color=919191&interchange=true"/></a>
