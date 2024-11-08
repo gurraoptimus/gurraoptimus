@@ -19,7 +19,7 @@
 
  ## 
 
-<!--<a href="https://github.com/gurraoptimus">
+<!--<a href="https://www.github.com/gurraoptimus">
   <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="github-readme-stats" 
     </p>
