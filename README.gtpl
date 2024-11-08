@@ -41,6 +41,7 @@
 </body>
 </html>
 
+[![markscribe](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml/badge.svg)](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml)
 
 <a href="https://github.com/gurraoptimus">
 <p align="center"> 
@@ -94,7 +95,6 @@
   
   
  <img src="https://spotify-recently-played-readme.vercel.app/api?user=gurra_optimus&count=10&unique=true&width=400" alt="Spotify recently played"/>
-
 
 ## [Repositories](https://github.com/gurraoptimus?tab=repositories)
 ### Musician. / IT Developer. [{Gurraoptimus Development}](https://gurraoptimus.se/)
