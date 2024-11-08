@@ -53,7 +53,7 @@
   <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="github-readme-stats" />
 </a>
-<h6 align="center">
+<h6 align="top">
   <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-qualityhentais&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" 
   alt="count getloli />
 
@@ -73,8 +73,7 @@
   src="https://gurraoptimus.se/icon/favicon.ico" />
 </a>
 
-[![GPL-3.0 License][license-shield]][license-url][![markscribe]
-<img src="(https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml/badge.svg)](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml)"
+[![GPL-3.0 License][license-shield]][license-url][![markscribe](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml/badge.svg)](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml)
 
  <a href="https://www.twitch.tv/anoshyguyyt" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/twitch/status/anoshyguyyt?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
