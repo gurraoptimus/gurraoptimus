@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <!-- Written by gurraoptimus for Gurraoptimus Development 2021 -->
-<html lang="en">
+<!--<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,7 +16,7 @@
     <link rel="shortcut icon" href="https://gurraoptimus.se/icon/favicon.ico" type="image/x-icon" />
     <title>Gurraoptimus</title>
     <link rel="stylesheet" href="https://gurraoptimus.se/css/stylesheet.css">
-</head>
+</head>-->
 
 <body>
     <video src="https://gurraoptimus.se/vid/Code.1.0.1.0.0.mp4" playsinline muted autoplay id="myVideo"></video>
@@ -31,7 +31,7 @@
         <a href="https://radio.gurraoptimus.se" class="btn">Radio</a>
     </div>
     
-    <script src="https://gurraoptimus.se/src/script.js"></script>
+    <--<script src="https://gurraoptimus.se/src/script.js"></script>-->
 </body>
 </html>
 
