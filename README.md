@@ -3,43 +3,15 @@
  <!DOCTYPE html>
 
 <!--Written by gurraoptimus for Gurraoptimus Development 2021-->
-  <!--<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <meta property="fb:app_id"             content="" />
-        <meta property="og:url"                content="https://www.gurraoptimus.se" />
-        <meta property="og:type"               content="gurraoptimus.se" />
-        <meta property="og:title"              content="{Gurraoptimus Development}" />
-        <meta property="og:description"        content="Copyright &copy; gurraoptimus Development "id="curYr". All rights reserved&mldr;" />
-        <meta property="og:image"              content="https://www.gurraoptimus.se/img/github.jpg" />
-        
+ 
         
 <meta name="description" content="gurraoptimus">
 <link rel="shortcut icon" href="https://gurraoptimus.se/icon/favicon.ico" type="image/x-icon" />
-<title>gurraoptimus</title>
+
 <link rel="stylesheet" type="text/css" href="https://gurraoptimus.se/css/stylesheet.css">
 
-<body>
-   <video src="https://gurraoptimus.se/vid/Code.1.0.1.0.0.mp4" playsinline  muted autoplay id="myVideo">
-    </video>
-    
 <div class="Welcome">
 <img class="resize" align="bottom" alt="gurraoptimus" src="https://www.gurraoptimus.se/img/ico.png" />
-
-   <h1>GURRA OPTIMUS</h1> 
-   <a href="https://psn.gurraoptimus.se"class="btn">psn</a>
-   <a href="https://twitch.gurraoptimus.se"class="btn">twitch</a>
-   <a href="https://chat.gurraoptimus.se"class="btn">chat</a>
-   <a href="https://time.gurraoptimus.se"class="btn">times</a>
-   <a href="https://radio.gurraoptimus.se"class="btn">radio</a>
-   </div>
-  <script src="https://gurraoptimus.se/src/script.js">
-</script>
-
-</body>
-</html>-->
 
 ##
 
@@ -48,6 +20,7 @@
 <img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count&border_width=0&border_radius=15.2&hide_border=true&theme=merko" alt="gh-readme-profile />
 
 <br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&count=True&show_icons=true&include_all_commits=true&theme=merko"alt="github-readme-stats />
 
 </a>
@@ -75,7 +48,7 @@
   src="https://gurraoptimus.se/icon/favicon.ico" />
 </a>
 
-[![GPL-3.0 License][license-shield]][license-url][![markscribe](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/update-readme.yml/badge.svg?event=push)](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/update-readme.yml)
+[![GPL-3.0 License][license-shield]][license-url][![markscribe](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/update-readme.yml/badge.svg)](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/update-readme.yml)
 
  <a href="https://www.twitch.tv/anoshyguyyt" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/twitch/status/anoshyguyyt?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
