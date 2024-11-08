@@ -94,7 +94,7 @@
   <img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=for-the-badge" /></a>
   
   
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=gurra_optimus&count=10&unique=true&width=400" alt="Spotify recently played"/>
+ <!--<img src="https://spotify-recently-played-readme.vercel.app/api?user=gurra_optimus&count=10&unique=true&width=400" alt="Spotify recently played"/>-->
 
 ## [Repositories](https://github.com/gurraoptimus?tab=repositories)
 ### Musician. / IT Developer. [{Gurraoptimus Development}](https://gurraoptimus.se/)
