@@ -10,8 +10,6 @@
 </body>
 </html>
 
----
-
 <a href="https://github.com/gurraoptimus">
   <p align="center">
     <img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count_private=true&border_width=0&border_radius=15.2&hide_border=true&theme=merko" alt="GitHub Profile Stats" />
@@ -44,8 +42,6 @@
 ## License
 
 [![GPL-3.0 License][license-shield]][license-url]
-
----
 
 ### Connect with Me:
 <p align="center">
