@@ -1,38 +1,30 @@
-name: Generate README with Markscribe
+name: markscribe
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight (UTC)
   push:
-    branches:
-      - main
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
-  update-readme:
+  markscribe:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Check out the repository
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      - name: Set up Go
-        uses: actions/setup-go@v4
-        with:
-          go-version: '1.20'  # Update to the latest stable version if necessary
-
-      - name: Install Markscribe
-        run: go install github.com/muesli/markscribe@latest
-
-      - name: Generate README.md with Markscribe
-        run: markscribe -config markscribe.yml -output README.md -template README.gtpl
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Auto-generate README.md with Markscribe"
-          git push
+      - name: Generate README
+        uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        with:
+          template: 'README.gtpl'
+          writeTo: 'README.md'
+
+      - name: Commit README
+        uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          commit_message: 'markscribe: update README.md'
