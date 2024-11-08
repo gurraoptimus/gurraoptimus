@@ -46,7 +46,7 @@
 <img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count_private&border_width=0&border_radius=15.2&hide_border=true&theme=merko" alt="gh-readme-profile />
 
 <br>
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&count_private=True&show_icons=true&include_all_commits=true&theme=merko" alt="github-readme-stats" />-->
+  <img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&count_private=True&show_icons=true&include_all_commits=true&theme=merko" alt="github-readme-stats" />
 
 </a>
 <a href="https://github.com/gurraoptimus">
