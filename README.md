@@ -36,10 +36,10 @@
    <a href="https://radio.gurraoptimus.se"class="btn">radio</a>
    </div>
   <script src="https://gurraoptimus.se/src/script.js">
-</script>-->
+</script>
 
 </body>
-</html>
+</html>-->
 
 <a href="https://github.com/gurraoptimus">
 <p align="center"> 
@@ -58,7 +58,7 @@
   alt="count getloli />
 
 </h6>
-<p align="center"> 
+<p align="left"> 
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
         <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=gurra_optimus&cover_image=true&theme=default&show_offline=true&background_color=919191&interchange=false&bar_color=9e10ea&bar_color_cover=True"/></a>
     </p>
