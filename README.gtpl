@@ -61,11 +61,11 @@
 </h6>
 <p align="center"> 
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
-        <img title="spotify-github-profile" alt="spotify" src="[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=gurra_optimus&cover_image=true&theme=default&show_offline=false&background_color=878787&interchange=false&bar_color_cover=true&bar_color=df0707]]"/></a>
+        <img title="spotify-github-profile" alt="spotify" src="[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=gurra_optimus&cover_image=true&theme=default&show_offline=true&background_color=878787&interchange=true&bar_color_cover=true&bar_color=df0707]]"/></a>
     </p>
 
  <h6 align="center">
-<img title="spotify-github-profile" alt="spotify" src="https://github.com/gurraoptimus/gurraoptimus/blob/main/imsooutofthechessboard.svg"/>
+<--<img title="spotify-github-profile" alt="spotify" src="https://github.com/gurraoptimus/gurraoptimus/blob/main/imsooutofthechessboard.svg"/>-->
  
  <br>
 
