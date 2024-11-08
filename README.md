@@ -41,6 +41,8 @@
 </body>
 </html>-->
 
+##
+
 <a href="https://github.com/gurraoptimus">
 <p align="center"> 
 <img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count_private&border_width=0&border_radius=15.2&hide_border=true&theme=merko" alt="gh-readme-profile />
@@ -72,8 +74,6 @@
   <img align="top" alt="gurraoptimus" width="55px" 
   src="https://gurraoptimus.se/icon/favicon.ico" />
 </a>
-
-##
 
 [![GPL-3.0 License][license-shield]][license-url][![markscribe](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml/badge.svg)](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml)
 
