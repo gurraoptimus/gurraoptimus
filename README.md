@@ -1,6 +1,5 @@
 <!--<img align="center" alt="gurraoptimus" src="https://www.gurraoptimus.se/img/ico.png" />-->
 # {GURRAOPTIMUS DEVELOPMENT}
- <!DOCTYPE html>
 
 <!--Written by gurraoptimus for Gurraoptimus Development 2021-->
  
@@ -13,15 +12,13 @@
 <div class="Welcome">
 <img class="resize" align="bottom" alt="gurraoptimus" src="https://www.gurraoptimus.se/img/ico.png" />
 
-##
-
 <a href="https://github.com/gurraoptimus">
 <p align="center"> 
 <img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count&border_width=0&border_radius=15.2&hide_border=true&theme=merko" alt="gh-readme-profile />
 
 <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&count=True&show_icons=true&include_all_commits=true&theme=merko"alt="github-readme-stats />
+ ## 
 
 </a>
 <!--<a href="https://github.com/gurraoptimus">
