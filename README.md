@@ -14,7 +14,7 @@
 
 <a href="https://github.com/gurraoptimus">
 <p align="center"> 
-<img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count&border_width=0&border_radius=15.2&hide_border=true&theme=merko" alt="gh-readme-profile />
+<img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count&border_width=0&border_radius=15.2&hide_border=true&theme=merko" alt="gh-readme-profile </a>
 
 <br>
 
