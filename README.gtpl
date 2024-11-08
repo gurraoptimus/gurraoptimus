@@ -1,37 +1,12 @@
 # {GURRAOPTIMUS DEVELOPMENT}
 
 <!DOCTYPE html>
-<!-- Written by gurraoptimus for Gurraoptimus Development 2021 -->
-<!--<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta property="og:url" content="https://www.gurraoptimus.se" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Gurraoptimus Development" />
-    <meta property="og:description" content="Copyright © Gurraoptimus Development. All rights reserved." />
-    <meta property="og:image" content="https://www.gurraoptimus.se/img/github.jpg" />
-    <meta name="description" content="Gurraoptimus" />
-    <link rel="shortcut icon" href="https://gurraoptimus.se/icon/favicon.ico" type="image/x-icon" />
-    <title>Gurraoptimus</title>
-    <link rel="stylesheet" href="https://gurraoptimus.se/css/stylesheet.css">
-</head>-->
-
-<body>
-    <video src="https://gurraoptimus.se/vid/Code.1.0.1.0.0.mp4" playsinline muted autoplay id="myVideo"></video>
-    
+<!-- Written by gurraoptimus for Gurraoptimus Development -->
+   <head>
+ <body>
     <div class="Welcome">
         <img class="resize" alt="Gurraoptimus" src="https://www.gurraoptimus.se/img/ico.png" />
-        <h1>GURRA OPTIMUS</h1> 
-        <a href="https://psn.gurraoptimus.se" class="btn">PSN</a>
-        <a href="https://twitch.gurraoptimus.se" class="btn">Twitch</a>
-        <a href="https://chat.gurraoptimus.se" class="btn">Chat</a>
-        <a href="https://time.gurraoptimus.se" class="btn">Times</a>
-        <a href="https://radio.gurraoptimus.se" class="btn">Radio</a>
-    </div>
-    
-    <--<script src="https://gurraoptimus.se/src/script.js"></script>-->
+  </div>
 </body>
 </html>
 
