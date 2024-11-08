@@ -48,7 +48,7 @@
 <img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count_private&border_width=0&border_radius=15.2&hide_border=true&theme=merko" alt="gh-readme-profile />
 
 <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&count_private=True&show_icons=true&include_all_commits=true&theme=merko" alt="github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gurraoptimus&count_private=True&show_icons=true&include_all_commits=true&theme=merko"alt="github-readme-stats />
 
 </a>
 <a href="https://github.com/gurraoptimus">
@@ -78,7 +78,7 @@
 [![GPL-3.0 License][license-shield]][license-url][![markscribe](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml/badge.svg)](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml)
 
  <a href="https://www.twitch.tv/anoshyguyyt" target="_blank" rel="noreferrer"><img
-  src="https://img.shields.io/twitch/status/chillhopradio?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+  src="https://img.shields.io/twitch/status/anoshyguyyt?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
   
   <a href="https://github.com/gurraoptimus" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" style="margin-bottom: 5px;" /></a>
