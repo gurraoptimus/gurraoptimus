@@ -22,7 +22,13 @@ jobs:
           template: 'README.gtpl'
           writeTo: 'README.md'
 
-      - name: Commit README
+      - name: Check if README.md has changed
+        id: check_diff
+        run: |
+          git diff --exit-code README.md || echo "README.md has changes"
+
+      - name: Commit and push README if changed
+        if: steps.check_diff.outputs.diff == 'true'
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ github.token }}
