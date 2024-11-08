@@ -75,7 +75,7 @@
   src="https://gurraoptimus.se/icon/favicon.ico" />
 </a>
 
-[![GPL-3.0 License][license-shield]][license-url][![markscribe](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml/check.svg)](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml)
+[![GPL-3.0 License][license-shield]][license-url][![markscribe](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/update-readme.yml/badge.svg?event=push)](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/update-readme.yml)
 
  <a href="https://www.twitch.tv/anoshyguyyt" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/twitch/status/anoshyguyyt?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
