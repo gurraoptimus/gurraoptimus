@@ -58,7 +58,7 @@
   alt="count getloli />
 
 </h6>
-<p align="center"> 
+<p align="top"> 
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
         <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=gurra_optimus&cover_image=true&theme=default&show_offline=true&background_color=919191&interchange=false&bar_color=9e10ea&bar_color_cover=True"/></a>
     </p>
@@ -72,6 +72,8 @@
   <img align="top" alt="gurraoptimus" width="55px" 
   src="https://gurraoptimus.se/icon/favicon.ico" />
 </a>
+
+##
 
 [![GPL-3.0 License][license-shield]][license-url][![markscribe](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml/badge.svg)](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml)
 
