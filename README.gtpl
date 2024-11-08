@@ -15,11 +15,7 @@
 <p align="center"> 
 <img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count&border_width=0&border_radius=15.2&hide_border=true&theme=merko" alt="gh-readme-profile />
 
-<br>
-
- ## 
-
-    <a href="https://www.github.com/gurraoptimus" />
+    <a href="https://www.github.com/gurraoptimus"
   <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="github-readme-stats" 
     </p>
