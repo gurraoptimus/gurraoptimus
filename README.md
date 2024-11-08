@@ -61,7 +61,7 @@
 </h6>
 <p align="center"> 
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
-        <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&cover_image=false&theme=default&show_offline=true&background_color=919191&interchange=true"/></a>
+        <img title="spotify-github-profile" alt="spotify" src="[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=gurra_optimus&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=gurra_optimus&cover_image=true&theme=default&show_offline=true&background_color=878787&interchange=false&bar_color_cover=true&bar_color=df0707)]]"/></a>
     </p>
 
  <h6 align="center">
