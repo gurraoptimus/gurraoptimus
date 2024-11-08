@@ -19,14 +19,15 @@
 
  ## 
 
-</a>
 <!--<a href="https://github.com/gurraoptimus">
   <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="github-readme-stats" />
-</a>-->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="github-readme-stats" 
+    </p>
+
 <h6 align="center">
   <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" 
   alt="count getloli />
+</a>-->
 
 </h6>
 <p align="right"> 
