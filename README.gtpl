@@ -30,6 +30,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
+    <img title="Spotify Profile" alt="Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&cover_image=false&theme=default&show_offline=true&background_color=919191&interchange=true" />
+  </a>
+</p>
+
+
 ## [Repositories](https://github.com/gurraoptimus?tab=repositories)
 ### Musician / IT Developer / [{Gurraoptimus Development}](https://gurraoptimus.se/)
 ### Follow me on [Linktree](https://linktr.ee/gurraoptimus)
