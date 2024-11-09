@@ -7,19 +7,15 @@
 
 <link rel="stylesheet" type="text/css" href="https://gurraoptimus.se/css/stylesheet.css">
 
-<img class="resize" align="bottom" alt="gurraoptimus" src="https://gurraoptimus.se/img/ico.png" />
-
 <p align="center"> 
 <img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count&border_width=0&border_radius=15.2&hide_border=true&theme=merko" alt="gh-readme-profile />
 
-    <a href="https://www.github.com/gurraoptimus">
   <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="github-readme-stats" 
-    </p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="github-readme-stats" /> 
+  </p>
 
 <h6 align="center">
-  <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" 
-  alt="count getloli />
+  <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="count getloli" />
 </a>
 
 </h6>
@@ -38,7 +34,9 @@
   src="https://gurraoptimus.se/icon/favicon.ico" />
 </a>
 
-[![GPL-3.0 License][license-shield]][license-url][![markscribe](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/update-readme.yml/badge.svg)](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/update-readme.yml)
+[![GPL-3.0 License][license-shield]][license-url]
+
+[![markscribe](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml/badge.svg)]
 
  <a href="https://www.twitch.tv/anoshyguyyt" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/twitch/status/anoshyguyyt?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
