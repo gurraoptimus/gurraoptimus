@@ -2,13 +2,12 @@
 
 github:
   username: gurraoptimus  # Replace with your GitHub username
-
 template:
   sections:
     - source: github.activity
       options:
         username: gurraoptimus
-        limit: 5
+        limit: 10
     - source: github.stats
       options:
         username: gurraoptimus
