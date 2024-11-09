@@ -1,18 +1,13 @@
 # markscribe.yml
 
 github:
-  username: gurraoptimus  # Replace with your GitHub username
+  username: gurraoptimus
 template:
   sections:
     - source: github.activity
       options:
         username: gurraoptimus
-        limit: 10
+        limit: 5
     - source: github.stats
       options:
         username: gurraoptimus
-    - source: github.repositories
-      options:
-        username: gurraoptimus
-        limit: 10       # Adjust the number of repositories to list
-        order: updated  # Options include 'updated', 'pushed', 'created', 'full_name'
