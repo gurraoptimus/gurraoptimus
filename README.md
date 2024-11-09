@@ -54,13 +54,7 @@
 </a>
 </h6>
 
-## 📂 My Repositories
-
-{{ with github.repositories }}
-{{ range . }}
-- [{{ gurraoptimus }}]({{ https://github.com/gurraoptimus?tab=repositories }}) - {{ .Description }}
-{{ end }}
-{{ end }}
+## 📂 [My Repositories](https://github.com/gurraoptimus?tab=repositories)
 
 ### Musician. / IT Developer. [{Gurraoptimus Development}](https://gurraoptimus.se/)
 ### Follow me here on [linktr.ee](https://linktr.ee/gurraoptimus)
