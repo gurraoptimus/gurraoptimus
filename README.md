@@ -18,7 +18,7 @@
   <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="count getloli" />
 </h6>
 
-<p align="center"> 
+<p align="bottom"> 
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
     <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=gurra_optimus&cover_image=true&theme=default&show_offline=true&background_color=919191&interchange=false&bar_color=9e10ea&bar_color_cover=True"/>
   </a>
@@ -29,7 +29,7 @@
   <a href="https://gurraoptimus.se/">
     <img align="top" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/favicon.ico" />
   </a>
-
+</h6>
 
 [![GPL-3.0 License][license-shield]][license-url]
 
@@ -54,8 +54,6 @@
 <a href="https://www.youtube.com/@anoshyguy">
   <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
 </a>
-
-</h6>
 
 ## [Repositories](https://github.com/gurraoptimus?tab=repositories)
 ### Musician. / IT Developer. [{Gurraoptimus Development}](https://gurraoptimus.se/)
