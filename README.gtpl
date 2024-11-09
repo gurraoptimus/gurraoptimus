@@ -29,8 +29,7 @@
   <a href="https://gurraoptimus.se/">
     <img align="top" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/favicon.ico" />
   </a>
-</h6>
-
+  
 <br>
 
 [![GPL-3.0 License][license-shield]][license-url]
@@ -64,3 +63,5 @@
 
 [license-shield]: https://img.shields.io/github/license/gurraoptimus/gurraoptimus.svg?-style=flat-square
 [license-url]: https://github.com/gurraoptimus/gurraoptimus/blob/main/LICENSE
+
+</h6>
