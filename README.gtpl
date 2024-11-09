@@ -54,7 +54,7 @@
 <a href="https://www.youtube.com/@anoshyguy">
   <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
 </a>
-<br>
+</h6>
 
 ## [Repositories](https://github.com/gurraoptimus?tab=repositories)
 ### Musician. / IT Developer. [{Gurraoptimus Development}](https://gurraoptimus.se/)
