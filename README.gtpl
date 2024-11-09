@@ -3,13 +3,10 @@
 
 <!--Written by gurraoptimus for Gurraoptimus Development 2024-->
  
-        
-<meta name="description" content="gurraoptimus">
 <link rel="shortcut icon" href="https://gurraoptimus.se/icon/favicon.ico" type="image/x-icon" />
 
 <link rel="stylesheet" type="text/css" href="https://gurraoptimus.se/css/stylesheet.css">
 
-<div class="Welcome">
 <img class="resize" align="bottom" alt="gurraoptimus" src="https://gurraoptimus.se/img/ico.png" />
 
 <p align="center"> 
