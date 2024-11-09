@@ -16,7 +16,6 @@
 
 <h6 align="center">
   <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="count getloli" />
-</h6>
 
 <p align="center"> 
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
@@ -29,7 +28,6 @@
   <a href="https://gurraoptimus.se/">
     <img align="center" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/favicon.ico" />
   </a>
-</h6>
 
 [![GPL-3.0 License][license-shield]][license-url]
 
