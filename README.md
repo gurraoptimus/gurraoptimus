@@ -62,6 +62,18 @@
 {{ end }}
 {{ end }}
 
+## 🌟 GitHub Stats
+
+{{ github.stats }}
+
+## 🛠️ Recent Activity
+
+{{ with github.activity }}
+{{ range . }}
+- {{ . }}
+{{ end }}
+{{ end }}
+
 ### Musician. / IT Developer. [{Gurraoptimus Development}](https://gurraoptimus.se/)
 ### Follow me here on [linktr.ee](https://linktr.ee/gurraoptimus)
 ## // Copyright &copy; Gurraoptimus Development All rights reserved&mldr;
