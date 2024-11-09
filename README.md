@@ -12,8 +12,8 @@
 
   <a href="https://www.github.com/gurraoptimus">
   <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="github-readme-stats" 
-    </p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="github-readme-stats"> 
+  </p>
 </a>
 
 <h6 align="center">
@@ -37,7 +37,9 @@
   src="https://gurraoptimus.se/icon/favicon.ico" />
 </a>
 
-[![GPL-3.0 License][license-shield]][license-url][![markscribe](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml/badge.svg)](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml)
+[![GPL-3.0 License][license-shield]][license-url]
+
+[![markscribe](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml/badge.svg)]
 
  <a href="https://www.twitch.tv/anoshyguyyt" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/twitch/status/anoshyguyyt?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
