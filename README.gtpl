@@ -24,12 +24,12 @@
   </a>
 </p>
 
-<h6 align="center">
+<h6 align="bottom">
   <!--<img title="spotify-github-profile" alt="spotify" src="https://github.com/gurraoptimus/gurraoptimus/blob/main/imsooutofthechessboard.svg"/>-->
   <a href="https://gurraoptimus.se/">
     <img align="top" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/favicon.ico" />
-  </a>  
-  </h6>
+  </a>
+</h6>
 
 [![GPL-3.0 License][license-shield]][license-url]
 
