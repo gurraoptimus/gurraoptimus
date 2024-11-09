@@ -58,7 +58,7 @@
 
 {{ with github.repositories }}
 {{ range . }}
-- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+- [{{ gurraoptimus }}]({{ https://github.com/gurraoptimus?tab=repositories }}) - {{ .Description }}
 {{ end }}
 {{ end }}
 
