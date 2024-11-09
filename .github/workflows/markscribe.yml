@@ -3,7 +3,7 @@ name: markscribe
 on:
   push:
   workflow_dispatch:
-  
+
 
 jobs:
   markscribe:
@@ -15,8 +15,6 @@ jobs:
 
       - name: Generate README
         uses: muesli/readme-scribe@master
-        
-
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:

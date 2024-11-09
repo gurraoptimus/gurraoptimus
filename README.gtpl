@@ -15,7 +15,7 @@
   </p>
 
 <h6 align="center">
-  <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="count getloli />
+  <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="count getloli" />
 </a>
 
 </h6>
