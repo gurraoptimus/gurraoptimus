@@ -26,8 +26,6 @@
 
  <h6 align="center">
   <!--<img title="spotify-github-profile" alt="spotify" src="https://github.com/gurraoptimus/gurraoptimus/blob/main/imsooutofthechessboard.svg"/>-->
- 
- <br>
 
  <a href="https://gurraoptimus.se/">
   <img align="top" alt="gurraoptimus" width="55px" 
