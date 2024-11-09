@@ -31,8 +31,6 @@
   </a>
 </h6>
 
-<br>
-
 [![GPL-3.0 License][license-shield]][license-url]
 
 [![markscribe](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml/badge.svg)](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml)
@@ -56,6 +54,7 @@
 <a href="https://www.youtube.com/@anoshyguy">
   <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
 </a>
+
 
 ## [Repositories](https://github.com/gurraoptimus?tab=repositories)
 ### Musician. / IT Developer. [{Gurraoptimus Development}](https://gurraoptimus.se/)
