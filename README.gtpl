@@ -54,7 +54,7 @@
 </a>
 </h6>
 
-## [Repositories](https://github.com/gurraoptimus?tab=repositories)
+## [Repositories](repositories)
 ### Musician. / IT Developer. [{Gurraoptimus Development}](https://gurraoptimus.se/)
 ### Follow me here on [linktr.ee](https://linktr.ee/gurraoptimus)
 ## // Copyright &copy; Gurraoptimus Development All rights reserved&mldr;
