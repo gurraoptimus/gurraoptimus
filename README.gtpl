@@ -31,6 +31,8 @@
   </a>
 </h6>
 
+<br>
+
 [![GPL-3.0 License][license-shield]][license-url]
 
 [![markscribe](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml/badge.svg)](https://github.com/gurraoptimus/gurraoptimus/actions/workflows/markscribe.yml)
