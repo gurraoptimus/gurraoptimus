@@ -29,7 +29,6 @@
   <a href="https://gurraoptimus.se/">
     <img align="center" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/favicon.ico" />
   </a>
-</h6>
 
 [![GPL-3.0 License][license-shield]][license-url]
 
