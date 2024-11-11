@@ -19,7 +19,7 @@
             flex-direction: column;
         }
 
-        /* This will fill up the available space in the middle */
+        /* Main content section */
         .content {
             flex-grow: 1;
             max-width: 960px;
@@ -32,6 +32,7 @@
             margin-bottom: 20px;
         }
 
+        /* Footer */
         footer {
             background-color: #222;
             color: white;
@@ -49,18 +50,56 @@
         /* Styling for the badge links inside the footer */
         .badge-links img {
             margin: 5px;
+            max-width: 100px;
         }
 
         .badge-links {
             margin-top: 10px;
         }
 
+        /* Social icons */
         .social-icons {
             margin-bottom: 20px;
         }
 
         .social-icons img {
             margin: 5px;
+        }
+
+        /* Mobile Responsiveness */
+        @media (max-width: 768px) {
+            .content {
+                padding: 15px;
+            }
+
+            .badge-links {
+                text-align: center;
+            }
+
+            .badge-links img {
+                margin: 8px;
+                max-width: 80px;
+            }
+
+            footer {
+                font-size: 12px;
+                padding: 15px;
+            }
+
+            footer p {
+                margin: 5px 0;
+            }
+        }
+
+        /* Extra small devices (phones in portrait mode) */
+        @media (max-width: 480px) {
+            header h1 {
+                font-size: 1.5em;
+            }
+
+            .badge-links img {
+                max-width: 70px;
+            }
         }
     </style>
 </head>
@@ -73,23 +112,9 @@
     <!-- Main content -->
     <section class="content">
         <div class="social-icons">
-            <!--<h6>
-                <a href="https://git.io/streak-stats">
-                    <img src="https://streak-stats.demolab.com?user=gurraoptimus&theme=violet-punch&mode=weekly&card_width=493&card_height=194" alt="GitHub Streak" />
-                </a>
-            </h6>
-
-            <p>
-                <img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count&border_width=0&border_radius=15.2&hide_border=true&theme=merko" alt="gh-readme-profile" />
-            </p>
-
-            <p>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="github-readme-stats" />
-            </p>-->
-
             <h6>
                 <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="count getloli" />
-            </h6
+            </h6>
 
             <p>
                 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
