@@ -8,27 +8,42 @@
     <link rel="shortcut icon" href="https://gurraoptimus.se/icon/favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="https://gurraoptimus.se/css/stylesheet.css">
     <style>
-        /* Ensures the body and html take up full height of the viewport */
+        /* Ensures that the body and html take full height */
         html, body {
             height: 100%;
             margin: 0;
             padding: 0;
-            display: flex;
-            flex-direction: column;
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
+            display: flex;
+            flex-direction: column;
         }
 
-        /* Main content should take all available space */
+        /* This will fill up the available space in the middle */
         .content {
-            flex: 1;
+            flex-grow: 1;
             max-width: 960px;
             margin: 0 auto;
             padding: 20px;
         }
 
-        h1, h2, h3 {
-            color: #333;
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 14px;
+            margin-top: auto; /* This pushes the footer down when there's little content */
+        }
+
+        footer a {
+            color: inherit;
+            text-decoration: none;
         }
 
         .social-icons img,
@@ -36,32 +51,23 @@
             margin: 5px;
         }
 
-        footer {
-            padding: 20px 0;
-            background-color: #222;
-            color: white;
-            text-align: center;
-            font-size: 14px;
-            margin-top: auto; /* This ensures the footer is pushed to the bottom */
-        }
-
-        footer a {
-            text-decoration: none;
-            color: inherit;
-        }
-
-        .links-section {
-            margin-top: 30px;
+        /* Ensure the content section is properly spaced */
+        .badge-links {
+            margin-top: 20px;
         }
 
         .badge-links img {
-            margin: 10px 5px;
+            margin: 5px;
         }
 
-        /* Centering content in social icons section */
         .social-icons {
             margin-bottom: 20px;
         }
+
+        .social-icons img {
+            margin: 5px;
+        }
+
     </style>
 </head>
 
@@ -70,6 +76,7 @@
         <h1>Gurraoptimus Development</h1>
     </header>
 
+    <!-- Main content -->
     <section class="content">
         <div class="social-icons">
             <h6>
@@ -104,6 +111,7 @@
         </div>
     </section>
 
+    <!-- Badge links section -->
     <section class="content badge-links">
         <p>
             <a href="https://www.twitch.tv/anoshyguyyt" target="_blank" rel="noreferrer">
@@ -111,31 +119,25 @@
             </a>
 
             <a href="https://github.com/gurraoptimus" target="_blank">
-                <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" style="margin-bottom: 5px;" />
+                <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
             </a>
 
             <a href="https://x.com/gurraoptimus" target="_blank">
-                <img src="https://img.shields.io/badge/X-%3000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="osi" style="margin-bottom: 5px;" />
+                <img src="https://img.shields.io/badge/X-%3000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="osi" />
             </a>
 
             <a href="https://instagram.com/DinoRainbowGirlMusic">
-                <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+                <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
             </a>
 
             <a href="https://www.youtube.com/@anoshyguy">
-                <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
+                <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
             </a>
         </p>
     </section>
 
-    <section class="content links-section">
-        <h2>📂 <a href="https://github.com/gurraoptimus?tab=repositories">My Repositories</a></h2>
-        <h3>Musician. / IT Developer. <a href="https://gurraoptimus.se/">Gurraoptimus Development</a></h3>
-        <p>Follow me here on <a href="https://linktr.ee/gurraoptimus">linktr.ee</a></p>
-    </section>
-
-    <!-- Footer with flexbox to ensure it's always at the bottom -->
-    <footer class="content links-section">
+    <!-- Footer -->
+    <footer>
         <p>&copy; Gurraoptimus Development All rights reserved.</p>
         <p>
             <a href="https://github.com/gurraoptimus/gurraoptimus/blob/main/LICENSE">
