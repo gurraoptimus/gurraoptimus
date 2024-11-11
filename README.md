@@ -1,7 +1,7 @@
-<!--<img align="center" alt="gurraoptimus" src="https://www.gurraoptimus.se/img/ico.png" />-->
+
 # {GURRAOPTIMUS DEVELOPMENT}
 
-<!--Written by gurraoptimus for Gurraoptimus Development 2024-->
+
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gurraoptimus&theme=travelers-theme&hide_border=true&exclude_days=Mon&card_height=194" alt="GitHub Streak" /></a>
  
@@ -26,7 +26,7 @@
 </p>
 
 <h6 align="center">
-  <!--<img title="spotify-github-profile" alt="spotify" src="https://github.com/gurraoptimus/gurraoptimus/blob/main/imsooutofthechessboard.svg"/>-->
+  
   <a href="https://gurraoptimus.se/">
     <img align="center" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/favicon.ico" />
   </a>
