@@ -49,51 +49,55 @@
 
         /* Styling for the badge links inside the footer */
         /* Ensures images scale properly */
-            .social-icons img {
-                margin: 10px;
-                max-width: 100%;
-                height: auto;
-            }
+        .social-icons img {
+            margin: 10px;
+            max-width: 100%;
+            height: auto;
+        }
 
-            /* Social icons container */
+        /* Social icons container */
+        .social-icons {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin: 20px 0;
+        }
+
+        /* Section for the main content */
+        .content {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Mobile responsiveness */
+        @media (max-width: 768px) {
             .social-icons {
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-                justify-content: center;
-                margin: 20px 0;
+                margin: 15px;
             }
 
-            /* Section for the main content */
-            .content {
-                max-width: 960px;
-                margin: 0 auto;
-                padding: 20px;
+            .social-icons img {
+                max-width: 80%;
             }
 
-            /* Mobile responsiveness */
-            @media (max-width: 768px) {
-                .social-icons {
-                    margin: 15px;
-                }
-
-                .social-icons img {
-                    max-width: 80%;
-                }
+            header h1 {
+                font-size: 1.8em;
             }
+        }
 
-            footer {
-                font-size: 12px;
-                padding: 15px;
-            }
+        footer {
+            font-size: 12px;
+            padding: 15px;
+        }
 
-            footer p {
-                margin: 5px 0;
-            }
+        footer p {
+            margin: 5px 0;
+        }
 
-            footer .footer-logo img {
-                max-width: 100px;
-            }
+        footer .footer-logo img {
+            max-width: 100px;
+        }
 
         @media (max-width: 480px) {
             header h1 {
@@ -109,6 +113,12 @@
                 max-width: 90px;
             }
         }
+
+        /* Additional styling for social icons and footer layout */
+        .social-icons a {
+            margin: 5px;
+        }
+
     </style>
 </head>
 
@@ -120,23 +130,19 @@
     <!-- Main content -->
     <section class="content">
         <div class="social-icons">
-         <h6 align="margin-center">   
             <p>
                 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
                     <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=gurra_optimus&cover_image=true&theme=default&show_offline=true&background_color=00000&interchange=false&bar_color=9e10ea&bar_color_cover=True"/>
                 </a>
             </p>
-        </div>
-            <p align="top">
+            <p>
                 <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="count getloli" />
             </p>
         </div>
-    </h6>
     </section>
 
     <!-- Footer -->
     <footer>
-        
         <!-- Footer Logo -->
         <h6>
             <a href="https://gurraoptimus.se/">
@@ -153,28 +159,27 @@
         <!-- Social Media Badge Links Section inside Footer -->
         <section class="badge-links">
             <p>
-                <a href="https://www.twitch.tv/anoshyguyyt" target="_blank" rel="noreferrer">
-                    <img src="https://img.shields.io/twitch/status/anoshyguyyt?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" />
+                <a href="https://www.twitch.tv/anoshyguyyt" target="_blank" rel="noreferrer" aria-label="Visit Anoshyguy's Twitch">
+                    <img src="https://img.shields.io/twitch/status/anoshyguyyt?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" alt="Twitch Status" />
                 </a>
 
-                <a href="https://github.com/gurraoptimus" target="_blank">
+                <a href="https://github.com/gurraoptimus" target="_blank" aria-label="Visit Gurraoptimus' GitHub profile">
                     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
                 </a>
 
-                <a href="https://x.com/gurraoptimus" target="_blank">
+                <a href="https://x.com/gurraoptimus" target="_blank" aria-label="Follow Gurraoptimus on X">
                     <img src="https://img.shields.io/badge/X-%3000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="osi" />
                 </a>
 
-                <a href="https://instagram.com/DinoRainbowGirlMusic">
+                <a href="https://instagram.com/DinoRainbowGirlMusic" aria-label="Follow Gurraoptimus on Instagram">
                     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
                 </a>
 
-                <a href="https://www.youtube.com/@anoshyguy">
+                <a href="https://www.youtube.com/@anoshyguy" aria-label="Visit Anoshyguy's YouTube channel">
                     <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
                 </a>
             </p>
         </section>
-
     </footer>
 </body>
 
