@@ -8,7 +8,7 @@
     <link rel="shortcut icon" href="https://gurraoptimus.se/icon/favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="https://gurraoptimus.se/css/stylesheet.css">
     <style>
-        /* Ensure the body and html fill the entire viewport */
+        /* Ensures the body and html take up full height of the viewport */
         html, body {
             height: 100%;
             margin: 0;
@@ -16,13 +16,12 @@
             display: flex;
             flex-direction: column;
             font-family: Arial, sans-serif;
-            text-align: center;
             background-color: #f4f4f4;
         }
 
-        /* Main content section should grow to take available space */
+        /* Main content should take all available space */
         .content {
-            flex: 1;  /* This makes the content section grow */
+            flex: 1;
             max-width: 960px;
             margin: 0 auto;
             padding: 20px;
@@ -32,17 +31,18 @@
             color: #333;
         }
 
-        .social-icons img, .badge-links img {
+        .social-icons img,
+        .badge-links img {
             margin: 5px;
         }
 
         footer {
-            margin-top: 40px;
-            font-size: 14px;
-            color: #777;
             padding: 20px 0;
             background-color: #222;
             color: white;
+            text-align: center;
+            font-size: 14px;
+            margin-top: auto; /* This ensures the footer is pushed to the bottom */
         }
 
         footer a {
@@ -58,7 +58,7 @@
             margin: 10px 5px;
         }
 
-        /* Flexbox for centering content in main */
+        /* Centering content in social icons section */
         .social-icons {
             margin-bottom: 20px;
         }
@@ -134,7 +134,7 @@
         <p>Follow me here on <a href="https://linktr.ee/gurraoptimus">linktr.ee</a></p>
     </section>
 
-    <!-- Updated footer with 'content links-section' class -->
+    <!-- Footer with flexbox to ensure it's always at the bottom -->
     <footer class="content links-section">
         <p>&copy; Gurraoptimus Development All rights reserved.</p>
         <p>
