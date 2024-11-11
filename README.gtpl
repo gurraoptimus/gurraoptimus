@@ -1,5 +1,5 @@
 <!--<img align="center" alt="gurraoptimus" src="https://www.gurraoptimus.se/img/ico.png" />-->
-# {GURRAOPTIMUS DEVELOPMENT}
+<p align="center" # {GURRAOPTIMUS DEVELOPMENT} </p>
 
 <!--Written by gurraoptimus for Gurraoptimus Development 2024-->
  
