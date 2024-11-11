@@ -2,7 +2,7 @@ name: Update README
 
 on:
   # Schedule updates (every 3 hours)
-  schedule: [{cron: "0 */3 * * *"}]
+  schedule: [{cron: "2 */5 * * *"}]
   push:
     paths:
       - README.gtpl
@@ -24,7 +24,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update"
+          git commit -m "Updates"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -2,6 +2,8 @@
 # {GURRAOPTIMUS DEVELOPMENT}
 
 <!--Written by gurraoptimus for Gurraoptimus Development 2024-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gurraoptimus&theme=travelers-theme&hide_border=true&exclude_days=Mon)](https://git.io/streak-stats)
  
 <link rel="shortcut icon" href="https://gurraoptimus.se/icon/favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" type="text/css" href="https://gurraoptimus.se/css/stylesheet.css">
