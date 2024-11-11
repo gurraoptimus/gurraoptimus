@@ -5,8 +5,8 @@
 
 <h6 align="center">
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=gurraoptimus&theme=travelers-theme&hide_border=true&exclude_days=Mon&card_width=493&card_height=194" alt="GitHub Streak" />
-</a> 
+<img src="https://streak-stats.demolab.com?user=gurraoptimus&theme=violet-punch&mode=weekly&card_width=493&card_height=194" alt="GitHub Streak" />
+</a>
 
 <link rel="shortcut icon" href="https://gurraoptimus.se/icon/favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" type="text/css" href="https://gurraoptimus.se/css/stylesheet.css">
