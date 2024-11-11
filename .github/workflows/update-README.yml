@@ -16,8 +16,8 @@ jobs:
       - name: Check out the repository
         uses: actions/checkout@v3
         
-      - name: Copy README.gtpl to README.md
-        run: cp README.gtpl README.md
+      - name: Copy index.html to README.md
+        run: cp index.html README.md
         
       - name: Commit changes
         run: |
