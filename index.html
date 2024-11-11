@@ -48,42 +48,38 @@
         }
 
         /* Styling for the badge links inside the footer */
-        .badge-links img {
-            margin: 5px;
-            max-width: 100px;
-        }
-
-        .badge-links {
-            margin-top: 10px;
-            text-align: center;
-        }
-
-        /* Social icons */
-        .social-icons {
-            margin-bottom: 20px;
-            text-align: center;
-        }
-
-        .social-icons img {
-            margin: 10px;
-            max-width: 50px;
-        }
-
-        /* Logo in footer */
-        footer .footer-logo img {
-            max-width: 120px;
-            margin-top: 10px;
-        }
-
-        /* Mobile Responsiveness */
-        @media (max-width: 768px) {
-            .content {
-                padding: 15px;
+        /* Ensures images scale properly */
+            .social-icons img {
+                margin: 10px;
+                max-width: 100%;
+                height: auto;
             }
 
-            .badge-links img {
-                max-width: 80px;
-                margin: 8px;
+            /* Social icons container */
+            .social-icons {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                margin: 20px 0;
+            }
+
+            /* Section for the main content */
+            .content {
+                max-width: 960px;
+                margin: 0 auto;
+                padding: 20px;
+            }
+
+            /* Mobile responsiveness */
+            @media (max-width: 768px) {
+                .social-icons {
+                    margin: 15px;
+                }
+
+                .social-icons img {
+                    max-width: 80%;
+                }
             }
 
             footer {
@@ -98,7 +94,6 @@
             footer .footer-logo img {
                 max-width: 100px;
             }
-        }
 
         @media (max-width: 480px) {
             header h1 {
