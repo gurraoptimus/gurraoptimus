@@ -8,37 +8,41 @@
     <link rel="shortcut icon" href="https://gurraoptimus.se/icon/favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="https://gurraoptimus.se/css/stylesheet.css">
     <style>
-        /* Add some basic styling for centering elements */
-        body {
+        /* Ensure the body and html fill the entire viewport */
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
             font-family: Arial, sans-serif;
             text-align: center;
             background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
+        }
+
+        /* Main content section should grow to take available space */
+        .content {
+            flex: 1;  /* This makes the content section grow */
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 20px;
         }
 
         h1, h2, h3 {
             color: #333;
         }
 
-        .content {
-            max-width: 960px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
-        .social-icons img {
+        .social-icons img, .badge-links img {
             margin: 5px;
-        }
-
-        .badge-links img {
-            margin: 10px 5px;
         }
 
         footer {
             margin-top: 40px;
             font-size: 14px;
             color: #777;
+            padding: 20px 0;
+            background-color: #222;
+            color: white;
         }
 
         footer a {
@@ -48,6 +52,15 @@
 
         .links-section {
             margin-top: 30px;
+        }
+
+        .badge-links img {
+            margin: 10px 5px;
+        }
+
+        /* Flexbox for centering content in main */
+        .social-icons {
+            margin-bottom: 20px;
         }
     </style>
 </head>
@@ -120,9 +133,9 @@
         <h3>Musician. / IT Developer. <a href="https://gurraoptimus.se/">Gurraoptimus Development</a></h3>
         <p>Follow me here on <a href="https://linktr.ee/gurraoptimus">linktr.ee</a></p>
     </section>
-    
-    <section class="content links-section">
-    <footer>
+
+    <!-- Updated footer with 'content links-section' class -->
+    <footer class="content links-section">
         <p>&copy; Gurraoptimus Development All rights reserved.</p>
         <p>
             <a href="https://github.com/gurraoptimus/gurraoptimus/blob/main/LICENSE">
@@ -130,7 +143,6 @@
             </a>
         </p>
     </footer>
-</section>
 </body>
 
 </html>
