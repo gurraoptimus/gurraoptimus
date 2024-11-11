@@ -19,7 +19,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
-          template: 'README.gtpl'
+          template: 'index.html'
           writeTo: 'README.md'
 
       - name: Commit README
