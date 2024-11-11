@@ -66,6 +66,12 @@
             margin: 5px;
         }
 
+        /* Logo in footer */
+        footer .footer-logo img {
+            max-width: 150px;
+            margin-top: 10px;
+        }
+
         /* Mobile Responsiveness */
         @media (max-width: 768px) {
             .content {
@@ -89,6 +95,10 @@
             footer p {
                 margin: 5px 0;
             }
+
+            footer .footer-logo img {
+                max-width: 120px;
+            }
         }
 
         /* Extra small devices (phones in portrait mode) */
@@ -99,6 +109,10 @@
 
             .badge-links img {
                 max-width: 70px;
+            }
+
+            footer .footer-logo img {
+                max-width: 100px;
             }
         }
     </style>
@@ -164,6 +178,11 @@
                 <img src="https://img.shields.io/github/license/gurraoptimus/gurraoptimus.svg?-style=flat-square" alt="GPL-3.0 License" />
             </a>
         </p>
+
+        <!-- Footer Logo -->
+        <div class="footer-logo">
+            <img src="https://gurraoptimus.se/icon/favicon.ico" alt="Gurraoptimus Logo" />
+        </div>
     </footer>
 </body>
 
