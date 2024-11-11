@@ -2,7 +2,7 @@ name: Update README
 
 on:
   # Schedule updates (every 3 hours)
-  schedule: [{cron: "15 11 * * *"}]
+  schedule: [{cron: "20 11 * * *"}]
   push:
     paths:
       - README.gtpl
