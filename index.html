@@ -14,7 +14,10 @@
             margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            background-color: #f4f4f4; /* fallback background color */
+            background-image: url('https://example.com/background.jpg'); /* Background image */
+            background-size: cover; /* Ensures the image covers the entire background */
+            background-position: center; /* Centers the background image */
             display: flex;
             flex-direction: column;
         }
@@ -30,6 +33,7 @@
         header {
             text-align: center;
             margin-bottom: 20px;
+            color: white; /* Change header text color for better visibility */
         }
 
         /* Footer */
@@ -48,7 +52,6 @@
         }
 
         /* Styling for the badge links inside the footer */
-        /* Ensures images scale properly */
         .social-icons img {
             margin: 10px;
             max-width: 100%;
@@ -125,16 +128,19 @@
 <body>
     <header>
         <h1>Gurraoptimus Development</h1>
-     <!-- Main content -->
+    </header>
+
+    <!-- Main content -->
     <section class="content">
         <div class="social-icons">
             <p>
                 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
-                    <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=raniboyna&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true"/>
+                    <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=raniboyna&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true"/>
                 </a>
             </p>
+        </div>
     </section>
-</header>
+
     <!-- Footer -->
     <footer>
         <!-- Footer Logo -->
@@ -145,8 +151,6 @@
             <p>
                 <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="count getloli" />
             </p>
-         </div> 
-        
         </h6>
         <p>
             <a href="https://github.com/gurraoptimus/gurraoptimus/blob/main/LICENSE">
