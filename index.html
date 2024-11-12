@@ -2,9 +2,13 @@
 <html lang="en">
 
 <head>
+    <meta property="og:title" content="{ Gurraoptimus Development }">
+    <meta property="og:description" content="Official site for { Gurraoptimus Development }. Check out our latest projects and social media links!">
+    <meta property="og:image" content="https://gurraoptimus.se/icon/favicon.ico">
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Gurraoptimus Development</title>
+    <title>{ Gurraoptimus Development }</title>
     <link rel="shortcut icon" href="https://gurraoptimus.se/icon/favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="https://gurraoptimus.se/css/stylesheet.css">
     <style>
@@ -15,7 +19,7 @@
             padding: 0;
             font-family: Arial, sans-serif;
             background-color: #f4f4f4; /* fallback background color */
-            background-image: url('https://gurraoptimus.se/img/github.jpg'); /* Background image */
+            background-image: url('https://gurraoptimus.se/img/github.jp'); /* Background image */
             background-size: cover; /* Ensures the image covers the entire background */
             background-position: center; /* Centers the background image */
             display: flex;
@@ -127,7 +131,7 @@
 
 <body>
     <header>
-        <h1>Gurraoptimus Development</h1>
+        <h1>{ Gurraoptimus Development }</h1>
     </header>
 
     <!-- Main content -->
@@ -157,7 +161,16 @@
                 <img src="https://img.shields.io/github/license/gurraoptimus/gurraoptimus.svg?-style=flat-square" alt="GPL-3.0 License" />
             </a>
         </p>
-        <p>&copy; Gurraoptimus Development. All rights reserved.</p>
+        <p>
+            <footer style="color: #fff;">
+            <p class="copyright" >
+                Copyright &copy; Gurraoptimus Development <span id="curYr"></span> All rights reserved&mldr;
+                </p>
+        <script>
+            var date = new Date();
+            var year = date.getFullYear();
+            document.getElementById("curYr").innerHTML = year;
+        </script>
 
         <!-- Social Media Badge Links Section inside Footer -->
         <section class="badge-links">
