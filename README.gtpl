@@ -23,7 +23,7 @@
   <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="count getloli" />
 
 <p align="center"> 
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=false">
     <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=&cover_image=true&theme=default&show_offline=false&background_color=00000&interchange=false&bar_color=9e10ea&bar_color_cover=True"/>
   </a>
 </p>
