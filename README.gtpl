@@ -24,12 +24,12 @@
 
 <p align="center"> 
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=false">
-    <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=gurraoptimus&cover_image=true&theme=default&show_offline=false&background_color=00000&interchange=false&bar_color=9e10ea&bar_color_cover=True"/>
+    <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=gurraoptimus&cover_image=true&theme=default&show_offline=false&background_color=00000&interchange=true&bar_color=9e10ea&bar_color_cover=True"/>
   </a>
 </p>
 
 <h6 align="center">
-  <img title="spotify-github-profile" alt="spotify" src="https://github.com/gurraoptimus/gurraoptimus/blob/main/imsooutofthechessboard.svg"/>
+  <!<img title="spotify-github-profile" alt="spotify" src="https://github.com/gurraoptimus/gurraoptimus/blob/main/imsooutofthechessboard.svg"/>-->
   <a href="https://gurraoptimus.se/">
     <img align="center" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/favicon.ico" />
   </a>
