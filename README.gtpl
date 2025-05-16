@@ -1,5 +1,5 @@
 <!--<img align="center" alt="gurraoptimus" src="https://www.gurraoptimus.se/img/ico.png" />-->
-# {GURRAOPTIMUS DEVELOPMENT}
+<h1 align="center">{GURRAOPTIMUS DEVELOPMENT}</h1>
 
 <!--Written by gurraoptimus for Gurraoptimus Development 2024-->
 
@@ -23,7 +23,7 @@
   <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="count getloli" />
 
 <p align="center"> 
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=false">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
     <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=gurraoptimus&cover_image=true&theme=default&show_offline=false&background_color=00000&interchange=false&bar_color=9e10ea&bar_color_cover=True"/>
   </a>
 </p>
