@@ -1,8 +1,8 @@
 name: Update README
 
 on:
-  # Schedule updates (every 3 hours)
- # schedule: [{cron: "0 */3 * * *"}]
+  # schedule: updates (every 3 hours)
+  schedule: [{cron: "0 */3 * * *"}]
   push:
     paths:
       - README.gtpl
