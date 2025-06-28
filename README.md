@@ -33,23 +33,8 @@
   <a href="https://gurraoptimus.se/">
     <img align="center" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/favicon.ico" />
   </a>
-  
 
-  <p align="center">
-    <a href="https://www.twitch.tv/anoshyguyyt" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/twitch/status/anoshyguyyt?style=social&logo=twitch&label=LIVE%20ON%20TWITCH" alt="Live Twitch Status" />
-    </a>
-  </p>
-  <p align="center">
-    <iframe
-      src="https://player.twitch.tv/?channel=anoshyguyyt&parent=github.com"
-      frameborder="0"
-      allowfullscreen="true"
-      scrolling="no"
-      height="300"
-      width="500">
-    </iframe>
-  </p>
+<iframe src="https://player.twitch.tv/?channel=anoshyguyyt&parent=gurraoptimus.se" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 [![GPL-3.0 License][license-shield]][license-url]
 
