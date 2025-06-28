@@ -33,6 +33,11 @@
   <a href="https://gurraoptimus.se/">
     <img align="center" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/favicon.ico" />
   </a>
+  
+<h6 align="center">
+ <!--<img title="twitch-github-profile" alt="twitch" src="https://github.com/twitch/blob/main/twitch.svg"/>-->
+   <a href="https://twitch.tv/anoshyguyyt/">
+  </a>
 
 [![GPL-3.0 License][license-shield]][license-url]
 
