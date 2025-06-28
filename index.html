@@ -132,6 +132,22 @@
 <body>
     <header>
         <h1>{ GURRAOPTIMUS DEVELOPMENT }</h1>
+          <h2>Live Radio</h2>
+   <!--<a href="https://chillhop.com/live"class="btn">Radio channel</a><br>-->
+   <!-- Add a placeholder for the Twitch embed -->
+   <div id="twitch-embed"></div>
+
+   <!-- Load the Twitch embed script -->
+   <script src="https://player.twitch.tv/js/embed/v1.js"></script>
+   
+   <!-- Create a Twitch.Player object. This will render within the placeholder div -->
+   <script type="text/javascript">
+     new Twitch.Player("twitch-embed", {
+       channel: "anoshyguyyt"
+     });
+   </script>
+     </div> 
+     
     </header>
 
     <!-- Main content -->
