@@ -34,15 +34,15 @@
     <img align="center" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/favicon.ico" />
   </a>
   
-<h6 align="center">
-   <h3>Live Radio</h3>
-   <!--<a href="https://chillhop.com/live"class="btn">Radio channel</a><br>-->
+ <h6 align="center">
+  <!--<img title="spotify-github-profile" alt="spotify" src="https://github.com/gurraoptimus/gurraoptimus/blob/main/imsooutofthechessboard.svg"/>-->
+  <a href="https://gurraoptimus.se/">
+    <img align="center" alt="gurraoptimus" width="55px" src="https://player.twitch.tv/js/embed/v1.js"></script>" />
+  </a>
+  
    <!-- Add a placeholder for the Twitch embed -->
    <div id="twitch-embed"></div>
 
-   <!-- Load the Twitch embed script -->
-   <script src="https://player.twitch.tv/js/embed/v1.js"></script>
-   
    <!-- Create a Twitch.Player object. This will render within the placeholder div -->
    <script type="text/javascript">
      new Twitch.Player("twitch-embed", {
@@ -50,7 +50,6 @@
      });
    </script>
      </div>
-    </a>
 
 [![GPL-3.0 License][license-shield]][license-url]
 
