@@ -33,7 +33,8 @@
   <a href="https://gurraoptimus.se/">
     <img align="center" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/favicon.ico" />
   </a>
-      
+     
+<h6 align="center">
   <!-- Live Twitch Embed -->
   <div id="twitch-embed" style="display: flex; justify-content: center; margin-top: 10px;"></div>
   <script src="https://player.twitch.tv/js/embed/v1.js"></script>
