@@ -35,9 +35,22 @@
   </a>
   
 <h6 align="center">
- <img title="twitch-github-profile" alt="twitch" src="https://player.twitch.tv/?channel=anoshyguyyt&enableExtensions=true&muted=true&parent=twitch.tv&player=popout&quality=auto&volume=0.5"/>
-   <a href="https://twitch.tv/anoshyguyyt/">
-  </a>
+   <h3>Live Radio</h3>
+   <!--<a href="https://chillhop.com/live"class="btn">Radio channel</a><br>-->
+   <!-- Add a placeholder for the Twitch embed -->
+   <div id="twitch-embed"></div>
+
+   <!-- Load the Twitch embed script -->
+   <script src="https://player.twitch.tv/js/embed/v1.js"></script>
+   
+   <!-- Create a Twitch.Player object. This will render within the placeholder div -->
+   <script type="text/javascript">
+     new Twitch.Player("twitch-embed", {
+       channel: "anoshyguyyt"
+     });
+   </script>
+     </div>
+    </a>
 
 [![GPL-3.0 License][license-shield]][license-url]
 
