@@ -1,7 +1,7 @@
-
+<!--<img align="center" alt="gurraoptimus" src="https://www.gurraoptimus.se/img/ico.png" />-->
 <h1 align="center">{GURRAOPTIMUS DEVELOPMENT}</h1>
 
-
+<!--Written by gurraoptimus for Gurraoptimus Development 2024-->
 
 <h6 align="center">
 <a href="https://git.io/streak-stats">
@@ -29,9 +29,14 @@
 </p>
 
 <h6 align="center">
-  
+  <!--<img title="spotify-github-profile" alt="spotify" src="https://github.com/gurraoptimus/gurraoptimus/blob/main/imsooutofthechessboard.svg"/>-->
   <a href="https://gurraoptimus.se/">
     <img align="center" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/favicon.ico" />
+  </a>
+  
+<h6 align="center">
+ <!--<img title="twitch-github-profile" alt="twitch" src="https://github.com/twitch/blob/main/twitch.svg"/>-->
+   <a href="https://twitch.tv/anoshyguyyt/">
   </a>
 
 [![GPL-3.0 License][license-shield]][license-url]
