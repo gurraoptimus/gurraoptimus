@@ -35,7 +35,7 @@
   </a>
   
 <h6 align="center">
- <img title="twitch-github-profile" alt="twitch" src="https://github.com/twitch/blob/main/twitch.svg"/>
+ <img title="twitch-github-profile" alt="twitch" src="https://player.twitch.tv/?channel=anoshyguyyt&enableExtensions=true&muted=true&parent=twitch.tv&player=popout&quality=auto&volume=0.5"/>
    <a href="https://twitch.tv/anoshyguyyt/">
   </a>
 
