@@ -35,17 +35,21 @@
   </a>
   
 
-<!-- Live Twitch Embed -->
-  <div id="twitch-embed" style="display: flex; justify-content: center; margin-top: 10px;"></div>
-  <script src="https://player.twitch.tv/js/embed/v1.js"></script>
-  <script type="text/javascript">
-    new Twitch.Player("twitch-embed", {
-      channel: "anoshyguyyt",
-      width: 350,
-      height: 200,
-      layout: "video"
-    });
-  </script>
+  <p align="center">
+    <a href="https://www.twitch.tv/anoshyguyyt" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/twitch/status/anoshyguyyt?style=social&logo=twitch&label=LIVE%20ON%20TWITCH" alt="Live Twitch Status" />
+    </a>
+  </p>
+  <p align="center">
+    <iframe
+      src="https://player.twitch.tv/?channel=anoshyguyyt&parent=github.com"
+      frameborder="0"
+      allowfullscreen="true"
+      scrolling="no"
+      height="300"
+      width="500">
+    </iframe>
+  </p>
 
 [![GPL-3.0 License][license-shield]][license-url]
 
