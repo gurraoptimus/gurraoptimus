@@ -28,13 +28,6 @@
   </a>
 </p>
 
-<h6 align="center">
-  <!--<img title="spotify-github-profile" alt="spotify" src="https://github.com/gurraoptimus/gurraoptimus/blob/main/imsooutofthechessboard.svg"/>-->
-  <a href="https://gurraoptimus.se/">
-    <img align="center" alt="gurraoptimus" width="55px" src="https://gurraoptimus.se/icon/favicon.ico" />
-  </a>
-
-<iframe src="https://player.twitch.tv/?channel=anoshyguyyt&parent=gurraoptimus.se" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 [![GPL-3.0 License][license-shield]][license-url]
 
