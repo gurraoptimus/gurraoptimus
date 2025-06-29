@@ -1,7 +1,7 @@
-<!--<img align="center" alt="gurraoptimus" src="https://www.gurraoptimus.se/img/ico.png" />-->
+
 <h1 align="center">{GURRAOPTIMUS DEVELOPMENT}</h1>
 
-<!--Written by gurraoptimus for Gurraoptimus Development 2024-->
+
 
 <h6 align="center">
 <a href="https://git.io/streak-stats">
