@@ -42,11 +42,11 @@
 </a>-->
 
 <a href="https://x.com/gurraoptimus" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%3000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="osi" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/-%3000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="osi" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://instagram.com/DinoRainbowGirlMusic">
-  <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/instagram-%25000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.youtube.com/@anoshyguy">
