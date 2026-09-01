@@ -54,7 +54,7 @@
 </a>
 </h6>
 
-### this is My owned! Linux "Neonfetch & Fastfetch" style: [Ultra Fetch] (https://ultrafetch.gurraoptimus.se)
+### this is My owned! Linux **Neonfetch & Fastfetch** style: [Ultra Fetch](https://ultrafetch.gurraoptimus.se)
 ### Android app: WiFi QR code's [QR Portal](https://github.com/gurraoptimus/QR-Portal)
 ## 📂 [My Repositories](https://github.com/gurraoptimus?tab=repositories)
 
