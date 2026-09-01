@@ -57,7 +57,7 @@
 ### Modern system info • Fastfetch style: [Ultra Fetch](https://ultrafetch.gurraoptimus.se)
 Note: `ultrafetch` `/tmp` can be cleared after reboot. `Re-download` if needed.
 
-### 📱: WiFi QR code's [QR Portal](https://github.com/gurraoptimus/QR-Portal)
+### 📱 WiFi QR code's [QR Portal](https://github.com/gurraoptimus/QR-Portal)
 ## 📂 [My Repositories](https://github.com/gurraoptimus?tab=repositories)
 
 ### Musician. / IT Developer. [{Gurraoptimus Development}](https://gurraoptimus.se/)
