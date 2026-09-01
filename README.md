@@ -55,6 +55,9 @@
 </h6>
 
 ## 📂 [My Repositories](https://github.com/gurraoptimus?tab=repositories)
+## Biggest Projects
+## Linux System [Ultra Fetch]
+## Andriod WebApp [QR Portal]
 
 ### Musician. / IT Developer. [{Gurraoptimus Development}](https://gurraoptimus.se/)
 ### Follow me here on [linktr.ee](https://linktr.ee/gurraoptimus)
