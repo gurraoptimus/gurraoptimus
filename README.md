@@ -54,7 +54,7 @@
 </a>
 </h6>
 
-### Linux: [Ultra Fetch](https://github.com/gurraoptimus/ultrafetch)
+### Linux: [Ultra Fetch](https://ultrafetch.gurraoptimus.se)
 ### Android app: [QR Portal](https://github.com/gurraoptimus/QR-Portal)
 ## 📂 [My Repositories](https://github.com/gurraoptimus?tab=repositories)
 
