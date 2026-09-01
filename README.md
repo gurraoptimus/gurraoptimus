@@ -54,9 +54,8 @@
 </a>
 </h6>
 
-### Biggest Projects
-### Linux System [Ultra Fetch](https://github.com/gurraoptimus/ultrafetch)
-### Andriod WebApp [QR Portal](https://github.com/gurraoptimus/QRPortal)
+### Linux: [Ultra Fetch](https://github.com/gurraoptimus/ultrafetch)
+### Android app: [QR Portal](https://github.com/gurraoptimus/QR-Portal)
 ## 📂 [My Repositories](https://github.com/gurraoptimus?tab=repositories)
 
 ### Musician. / IT Developer. [{Gurraoptimus Development}](https://gurraoptimus.se/)
