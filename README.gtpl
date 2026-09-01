@@ -11,9 +11,9 @@
 <link rel="shortcut icon" href="https://gurraoptimus.se/icon/favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" type="text/css" href="https://gurraoptimus.se/css/stylesheet.css">
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count&border_width=0&border_radius=15.2&hide_border=true&theme=merko" alt="gh-readme-profile" />
-</p>
+</p> -->
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="github-readme-stats" />
@@ -23,8 +23,8 @@
   <img src="https://count.getloli.com/@gurraoptimus?name=gurraoptimus&theme=booru-rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="count getloli" />
 
 <p align="center"> 
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=false">
-    <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=raniboyna&cover_image=true&theme=default&show_offline=true&background_color=00000&interchange=true&bar_color=9e10ea&bar_color_cover=True"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gurra_optimus&redirect=true">
+    <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=gurra_optimus&cover_image=true&theme=default&show_offline=true&background_color=00000&interchange=true&bar_color=9e10ea&bar_color_cover=True"/>
   </a>
 </p>
 
