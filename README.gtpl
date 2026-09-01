@@ -42,7 +42,7 @@
 </a>-->
 
 <a href="https://x.com/gurraoptimus" target="_blank">
-  <img src="https://img.shields.io/badge/X-%3000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="osi" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/X-%3000000.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="osi" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://instagram.com/DinoRainbowGirlMusic">
