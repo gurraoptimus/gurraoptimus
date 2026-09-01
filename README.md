@@ -1,7 +1,7 @@
 <!--<img align="center" alt="gurraoptimus" src="https://www.gurraoptimus.se/img/ico.png" />-->
 <h1 align="center">{GURRAOPTIMUS DEVELOPMENT}</h1>
 
-<!--Written by gurraoptimus for Gurraoptimus Development 2024-->
+<!--Written by gurraoptimus for Gurraoptimus Development 2026-->
 
 <h6 align="center">
 <a href="https://git.io/streak-stats">
@@ -11,9 +11,9 @@
 <link rel="shortcut icon" href="https://gurraoptimus.se/icon/favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" type="text/css" href="https://gurraoptimus.se/css/stylesheet.css">
 
-<!-- <p align="center"> 
+<p align="center"> 
   <img src="https://gh-readme-profile.vercel.app/api?username=gurraoptimus&count&border_width=0&border_radius=15.2&hide_border=true&theme=merko" alt="gh-readme-profile" />
-</p> -->
+</p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurraoptimus&layout=compact&theme=merko" alt="github-readme-stats" />
@@ -37,9 +37,9 @@
   <img src="https://img.shields.io/twitch/status/anoshyguyyt?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" />
 </a>
 
-<a href="https://github.com/gurraoptimus" target="_blank">
+<!--<a href="https://github.com/gurraoptimus" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" style="margin-bottom: 5px;" />
-</a>
+</a>-->
 
 <a href="https://x.com/gurraoptimus" target="_blank">
   <img src="https://img.shields.io/badge/X-%3000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="osi" style="margin-bottom: 5px;" />
