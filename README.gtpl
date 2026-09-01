@@ -54,10 +54,10 @@
 </a>
 </h6>
 
-## 📂 [My Repositories](https://github.com/gurraoptimus?tab=repositories)
 ### Biggest Projects
-### Linux System [Ultra Fetch](https://github.com/gurraoptimus?tab=ultrafetch)
-### Andriod WebApp [QR Portal](https://github.com/gurraoptimus?tab=QRPortal)
+### Linux System [Ultra Fetch](https://github.com/gurraoptimus/ultrafetch)
+### Andriod WebApp [QR Portal](https://github.com/gurraoptimus/QRPortal)
+## 📂 [My Repositories](https://github.com/gurraoptimus?tab=repositories)
 
 ### Musician. / IT Developer. [{Gurraoptimus Development}](https://gurraoptimus.se/)
 ### Follow me here on [linktr.ee](https://linktr.ee/gurraoptimus)
