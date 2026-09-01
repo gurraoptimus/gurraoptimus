@@ -54,7 +54,9 @@
 </a>
 </h6>
 
-### this is My owned! Linux **Neonfetch & Fastfetch** style: [Ultra Fetch](https://ultrafetch.gurraoptimus.se)
+### Modern system info • Fastfetch style: [Ultra Fetch](https://ultrafetch.gurraoptimus.se)
+Note: `/tmp` can be cleared after reboot. Re-download if needed.
+
 ### Android app: WiFi QR code's [QR Portal](https://github.com/gurraoptimus/QR-Portal)
 ## 📂 [My Repositories](https://github.com/gurraoptimus?tab=repositories)
 
