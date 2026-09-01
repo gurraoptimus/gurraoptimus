@@ -54,8 +54,8 @@
 </a>
 </h6>
 
-### Linux: [Ultra Fetch](https://ultrafetch.gurraoptimus.se)
-### Android app: [QR Portal](https://github.com/gurraoptimus/QR-Portal)
+### this is My owned! Linux "Neonfetch & Fastfetch" style: [Ultra Fetch] (https://ultrafetch.gurraoptimus.se)
+### Android app: WiFi QR code's [QR Portal](https://github.com/gurraoptimus/QR-Portal)
 ## 📂 [My Repositories](https://github.com/gurraoptimus?tab=repositories)
 
 ### Musician. / IT Developer. [{Gurraoptimus Development}](https://gurraoptimus.se/)
